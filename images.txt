@@ -8,3 +8,4 @@ mysql:8.0.3
 redis:6.0
 elasticsearch:8.13.0
 docker.elastic.co/elasticsearch/elasticsearch:8.13.0
+linux/arm64/v8 docker.elastic.co/elasticsearch/elasticsearch:8.13.0
